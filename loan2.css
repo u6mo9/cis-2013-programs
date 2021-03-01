@@ -1,0 +1,48 @@
+body {
+    font-family: Bookman Old Style, Helvetica, sans-serif;
+    background: 	#008B8B;
+}
+
+#content {
+    width: 600px;
+    font-family: Bodoni MT, Helvetica, sans-serif;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: #FFFFF0;
+    border: 1px solid #FFA07A;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	color: #CD5C5C;
+	font-weight: bold;
+	text-align: center;
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: right;
+    padding-right: 1em;
+    float: left;
+}
+
+input {
+    display: block;
+    color: #8B0000;
+    float: left;
+    font-weight: bold;
+    font-family: Broadway, Helvetica, sans-serif;
+    width: 100px;
+}
+
+#futureValue {
+    color: 	#FFE4E1;
+}
+
+br {
+    clear: left;
+}
